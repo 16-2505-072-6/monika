@@ -1,1 +1,5 @@
 theme: jekyll-theme-dinky
+title: 自己紹介
+description: 三上茂仁夏
+github:
+  is_project_page: false
