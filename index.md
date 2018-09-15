@@ -1,4 +1,3 @@
-
 # 所属
 ## 山口大学<br>工学部<br>知能情報工学科
 # 出身地
@@ -6,7 +5,7 @@
 # 趣味
 ## ピアノ　ファッション　ゲーム　ネットショッピング
 <details>
-<summary>好きなブランド</summary>
+<summary>好きなブランド</summary><br>
 1. Raf Simons<br>
 2. Y-3<br>
 3. Valentino<br>
